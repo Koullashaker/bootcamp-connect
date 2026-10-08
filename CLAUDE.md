@@ -48,6 +48,17 @@ social side where people meet through arranged events.
 
 **Deadline**: a working app by early November 2026.
 
+**Scope agreed by both partners on 8 October 2026** (the tutor has not yet approved;
+`PRD.md` and `roadmap.md` hold the detail and win if this section disagrees):
+- Audience: only students on the bootcamp's two courses.
+- "Looking for" tick list: co-founder, project collaborator, find a mentor,
+  be a mentor, meet people socially. More than one tick allowed.
+- A student can match with their own course or the other one.
+- Extras in: connection requests, a basic block, a privacy notice at sign-up, and
+  account deletion with data export (GDPR). If ahead: events, then favourites.
+- Not being built: making money (dropped), and all other extras and stretch goals.
+- Time: about 5 to 10 hours a week for roughly four weeks.
+
 **Essential features (required by the brief)**
 1. Registration and login: sign up, choose your course, manage your account.
 2. User profiles: photo, bio, skills, interests, what they are looking for.
@@ -80,7 +91,9 @@ people from both groups, then launch. Include access checks in every feature.
 
 ## Planning files
 
-The course asks for these. None exist yet; create each one only when asked.
+The course asks for these. `PRD.md` and `roadmap.md` exist as drafts. Read both
+before any planning or feature work, and update the roadmap's status column as
+features move. Create specs and decision records only when asked.
 
 | File | What goes in it |
 |------|-----------------|
@@ -108,12 +121,13 @@ they exist.
 
 Do not answer these yourself. Raise them when they become relevant.
 
+- **Tutor approval** of `PRD.md` and `roadmap.md`.
+- **Exact deadline date**, and **who builds which feature**.
 - **App name**: "Bootcamp Connect" is a placeholder.
-- **Scope**: which extras and stretch goals are in, given the November deadline?
-- **Audience**: only this bootcamp, or anyone?
-- **What a useful "connection" means**, and the rules that make two people a match.
+- **"Categories"** in the admin screens: the brief does not say what they are.
+- **Privacy notice**: how long information is kept, and who the contact is.
+- **Account deletion**: what happens to messages the person sent to others?
 - **How the app differs** from dating apps and similar apps (research planned).
-- **Making money**: ads, subscription, in-app purchases, or none?
 - **Design and colours**: discussed only briefly so far.
 - **Front end**: plain HTML/CSS/JavaScript pages, or something else?
 - **Login method**, and where profile photos are stored.
