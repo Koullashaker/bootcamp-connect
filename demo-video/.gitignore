@@ -1,0 +1,10 @@
+# Things Git should NOT pack up from the demo-video folder.
+
+# Playwright itself: big, and "npm install" can always fetch it again
+node_modules/
+
+# The throwaway demo database (made fresh on every run)
+demo-data/
+
+# The recorded clips: large files, and they can always be recorded again
+videos/
